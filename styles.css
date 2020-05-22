@@ -1,5 +1,9 @@
 * {
     background-color: cornsilk;
+      }
+
+  body {
+    font-family: 'Montserrat', sans-serif;
   }
   
   .navigation {
@@ -17,10 +21,10 @@
   blockquote {
       margin-right: 10%;
       padding-right: 50px;
-  }
+       }
   .quote {
     margin:  20px 20px 20px 930px;
-    padding: 20px;    
+    padding: 50px;    
     color: gray;
     text-align: right;
     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
